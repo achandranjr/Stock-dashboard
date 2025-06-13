@@ -75,7 +75,7 @@ The dashboard displays key metrics in an organized layout with real-time price u
 
 5. **Run the application**
    ```bash
-   streamlit run stock_dashboard.py
+   streamlit run streamlit.py
    ```
 
 6. **Access the dashboard**

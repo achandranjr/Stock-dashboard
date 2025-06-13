@@ -68,10 +68,12 @@ The dashboard displays key metrics in an organized layout with real-time price u
 4. **Configure API Key**
    - Open `stock_dashboard.py`
    - Set API key as environment variable
+   Bash
    ```bash
    export ALPHA_VANTAGE_KEY={your API key}
    ```
-   ```Windows CLI
+   Windows CLI
+   ```bash
    set ALPHA_VANTAGE_KEY={your API key}
    ```
 

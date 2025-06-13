@@ -235,8 +235,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or issues:
 - Create an issue in the repository
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [aditya.chandran@outlook.com]
+- LinkedIn: [www.linkedin.com/in/aditya-chandran-202764172]
 
 ---
 
